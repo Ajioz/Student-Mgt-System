@@ -22,7 +22,7 @@ To start the server Run 'npm start'
 you may need to install nodemon seperately by running the command 
 
 
-"npm install --global nodemon" if you havn't installed it as a global package previously
+"npm install --global nodemon" if you haven't installed it as a global package previously
 
 
 Happy Hacking!
